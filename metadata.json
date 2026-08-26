@@ -1,0 +1,6 @@
+{
+  "name": "Minik Adımlar Anaokulu - Online Ders Portalı",
+  "description": "Pastel pembe ve mavi temalı, öğretmen yönetim paneli, öğrenci kayıt sistemi, video ders izleme takip analizleri, eğitici anaokulu oyunları ve değerler eğitimi içeren okul öncesi eğitim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

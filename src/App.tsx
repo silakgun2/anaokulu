@@ -14,7 +14,7 @@ import { TeacherDashboard } from './components/TeacherDashboard';
 import { StudentPortal } from './components/StudentPortal';
 import { AuthModal } from './components/AuthModal';
 import { VideoPlayerModal } from './components/VideoPlayerModal';
-import { SqlModal } from './components/SqlModal';
+//import { SqlModal } from './components/SqlModal';
 import { sound } from './lib/audioEffects';
 
 export default function App() {
